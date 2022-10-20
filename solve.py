@@ -11,7 +11,7 @@ def f(u, t):
     Try using familiar functions like exponent of t ie np.exp(t)
     or cosine(t) ie np.cos(t) to verify the solution by graph
     '''
-    return -np.cos(t)
+    return np.exp(t)
 
 
 # Time
